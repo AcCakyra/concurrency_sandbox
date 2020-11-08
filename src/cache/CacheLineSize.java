@@ -1,4 +1,4 @@
-package cache_lines;
+package cache;
 
 public class CacheLineSize {
     /**
